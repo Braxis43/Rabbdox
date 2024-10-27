@@ -30,7 +30,7 @@ box.find
 relate 
 (*)
 d x a = b + c = e
-placement.seek
+placemen.seek
 relate
 (*)
 yield = 1/2 x (
