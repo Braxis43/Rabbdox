@@ -1,0 +1,44 @@
+
+from _typeshed import HasFileno, OpenBinaryMode
+from os import WEXITSTATUS, X_OK, uname
+from re import UNICODE
+from sys import call_tracing, set_coroutine_origin_tracking_depth, tracebacklimit
+from types import _ReturnT_co
+from typing_extensions import LiteralString, is_protocol
+
+
+L_OA_00 =_ReturnT_co:_ReturnT_co..L_OA_00
+_ReturnT_co:
+
+Together:00:00:00:00:00:00:00:00:00:00:00:00:00:00
+OverflowError:O_A_00:00:00:00:00:00:00:00:00:00:00:00
+Time:00:00:00:00:00:00:00:00:00:00:00:00:00
+HasFileno:IL_))__file__PL_00:00:00:00:00:00:00:00:00:00:00:00:88_00:00:00:00:00:00:00:00:00:00:00:00:00
+88:00:00:00:00:00:00:00:00:00:00:00:00:00-00:00:00:00:00:00:00:00:00:00:00:00:00:Hophen:00:00:00:00:00:00:00:00:00:00:00:00:Place:00:00:00:00:00:00:00:00:00:00:00:00:+00
++00_y:00:finally.junction.xray.LiteralString.L_OA_00
+1.0.0.0.0.0.0.0.0.0.0.0.0.0<hophen><+00
+66.0.0.0.0.0.0.0.0.0.0.0.0.
+hotel.com
+www.hotel.com/MemoryError/KeyboardInterrupt:00:00:00:00:00:00:00:00:00:00:00:00:00
+
+  {UNICODE{quit}
+{quit}
+Together:00:00:00:00:00:00:00:00:00:00:00:00:00
+LiteralString.0/0/0/0/0/0/0/0/0/0/0/0/0/
+open.pen/?/0/0/0/0/0/0/0/0/0/0/0/0/
+global-0/0/0/0/0/0/0/0/0/0/0/0/0-0.45
+45.0.0.0.0.0.0.0.0.0.0.0.0.
+OpenBinaryMode.0/0/0/0/0/0/0/0/0/0/0/0/0-L_OA_00
+L_OA_00.0/0/0/0/0/0/0/0/0/grid/0/0/0/0/0/0/0/0/0/0/0/0/
+grid/0/0/0/0/0/0/0/0/0/0/0/0/
+0(y)+X_OK(place)range.y(({uname})){
+  fix.y.x.x.x.x.x.x.x.x.x.x.x.
+  lan.WEXITSTATUS/0/0/0/0/0/0/0/0/0/0/0/0/
+  bool.async.,0/0/0/0/0/0/0/0/0/0/0/0/0-99(y)
+  99.0/0/0/0/0/0/0/0/0/0/0/
+juc.await.await((0/0/0/0/0/0/0/0/0/0/0/0/0`)
+               set_coroutine_origin_tracking_depth
+               is_protocol)6.set.78.set
+tracebacklimit(global)
+call_tracing:L_OA_00
+}tracebacklimit
